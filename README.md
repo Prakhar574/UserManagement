@@ -62,8 +62,14 @@ Open Your Browser: Navigate to http://localhost:5000 to access the application.
 
 🖼️ Screenshots
 User Dashboard
+![Screenshot 2024-09-12 165434](https://github.com/user-attachments/assets/82fb7695-5bd0-4705-9eff-068f939b018b)
+
+![Screenshot 2024-09-12 165305](https://github.com/user-attachments/assets/d1c798b7-14ae-4c39-be22-c7440f562b63)
+![Screenshot 2024-09-12 165337](https://github.com/user-attachments/assets/497e870c-6d51-40a4-9902-15faf0c02cb0)
 
 Edit User Form
+![Screenshot 2024-09-12 165458](https://github.com/user-attachments/assets/55397426-de0c-4ecb-b2ea-32e1c0edb4ed)
+![Screenshot 2024-09-12 165511](https://github.com/user-attachments/assets/d922f822-c195-4572-9e2a-2f120c24afc0)
 
 🎨 Design Inspiration
 The User Management System features a modern and vibrant design with a gradient background, sleek buttons, and a user-friendly interface. We utilized creative color themes and subtle animations to enhance the user experience.
